@@ -9,7 +9,9 @@
 .localdevserver/
 deploy-options.json
 scripts
-
+.idea
+IlluminatedCloud
+manifest
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
@@ -42,5 +44,5 @@ $RECYCLE.BIN/
 # Local environment variables
 .env
 
-// Directory for testing out random stuff
+# Directory for testing out random stuff
 poc
